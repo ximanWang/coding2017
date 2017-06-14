@@ -125,7 +125,7 @@ public class PromotionMail {
 	}
 
 	/**
-	 * 设置peoduct信息
+	 * 设置product信息
 	 * 
 	 * @param file
 	 * @return
